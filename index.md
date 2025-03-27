@@ -6,5 +6,5 @@ title: "My v_test site"
 # video list
 
 {% for video in site.videos %}
-- [{{ video.title }}]({{ video.url }})
+- [{{ video.title }}]({{ site.baseurl }}{{ video.url }})
 {% endfor %}
