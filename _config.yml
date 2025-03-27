@@ -1,3 +1,6 @@
+title: MP4 Video Gallery
+description: GitHub Pages
+theme: minima
 collections:
   videos:
     output: true
