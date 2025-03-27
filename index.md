@@ -9,9 +9,13 @@ title: "video List"
   <div style="text-align: center;">
     <a href="{{ site.baseurl }}{{ video.url }}">
       <img src="{{ site.baseurl }}{{ video.thumbnail }}" alt="{{ video.title }}" 
-           style="width: 100%; max-width: 1920px; height: auto; border-radius: 20px;">
+           style="width: 100%; max-width: 1920px; height: auto; border-radius: 40px;">
     </a>
-    <p style="font-size: 30px; font-weight: bold;">{{ video.title }}</p>
+    <p style="font-size: 40px; font-weight: bold;">
+      <a href="{{ site.baseurl }}{{ video.url }}" style="text-decoration: none; color: black;">
+        {{ video.title }}
+      </a>
+    </p>
   </div>
   {% endfor %}
 </div>
