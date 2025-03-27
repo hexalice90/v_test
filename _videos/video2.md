@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default # post
 title: "Video 2"
 ---
 
