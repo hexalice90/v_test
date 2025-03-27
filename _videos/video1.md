@@ -11,7 +11,7 @@ thumbnail: "/assets/thumbnails/video1.png"
   Your browser does not support the video tag.
 </video>
 
-<p style="font-size: 40px; font-weight: bold;">
+<p style="font-size: 20px; font-weight: bold;">
 <a href="{{ site.baseurl }}" style="text-decoration: none; color: black;">
-BACK TO TOP PAGE
+<< BACK TO TOP PAGE >>
 </a></p>
