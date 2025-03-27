@@ -1,7 +1,6 @@
 ---
-layout: video
+layout: post
 title: "Video 1"
-permalink: /videos/video1/
 ---
 
 <video width="640" height="360" controls>
