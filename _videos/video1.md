@@ -13,5 +13,5 @@ thumbnail: "/assets/thumbnails/video1.png"
 <br>
 <p style="font-size: 20px; font-weight: bold;">
 <a href="{{ site.baseurl }}" style="text-decoration: none; color: black;">
-<- BACK TO TOP PAGE
+<- Back to top page
 </a></p>
