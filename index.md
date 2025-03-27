@@ -1,8 +1,8 @@
 ---
 layout: home
+title: "video List"
 ---
 
-# List
 
 {% for video in site.videos %}
 - [{{ video.title }}]({{ site.baseurl }}{{ video.url }})
