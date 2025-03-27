@@ -1,6 +1,7 @@
 title: MP4 Video Gallery
 description: GitHub Pages
 theme: minima
+baseurl: "/v_test"
 collections:
   videos:
     output: true
