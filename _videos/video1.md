@@ -10,8 +10,8 @@ thumbnail: "/assets/thumbnails/video1.png"
   <source src="{{ site.baseurl }}/assets/videos/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<br><br>
+<br>
 <p style="font-size: 20px; font-weight: bold;">
 <a href="{{ site.baseurl }}" style="text-decoration: none; color: black;">
-<-- BACK TO TOP PAGE
+<- BACK TO TOP PAGE
 </a></p>
