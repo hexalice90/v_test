@@ -1,6 +1,6 @@
 title: MP4 Video Gallery
 description: GitHub Pages
-theme: dinky # minima
+theme: jekyll-theme-dinky # minima
 baseurl: "/v_test"
 collections:
   videos:
