@@ -8,5 +8,4 @@ title: "video List"
   <li style="font-size: 50px;">
     <a href="{{ site.baseurl }}{{ video.url }}">{{ video.title }}</a>
   </li>
-  <br>
 {% endfor %}
