@@ -1,3 +1,7 @@
 theme: minima
 title: "v_test"
 description: "simple v_test"
+collections:
+  videos:
+    output: true
+    permalink: /videos/:name/
