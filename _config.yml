@@ -9,4 +9,4 @@ collections:
 
 # custom navi menu
 nav_links:
-  Home: "/v_test"
+  Home: "/v_test/"
