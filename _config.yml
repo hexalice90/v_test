@@ -2,11 +2,16 @@ title: MP4 Video Gallery
 description: GitHub Pages
 theme: jekyll-theme-dinky # minima
 baseurl: "/v_test"
+
+# custom navi menu
+nav_links:
+  Home: "/v_test/"
+  Videos: "/videos/"
+  About: "/about/"
+
 collections:
   videos:
     output: true
     permalink: /videos/:name/
 
-# custom navi menu
-nav_links:
-  Home: "/v_test/"
+
