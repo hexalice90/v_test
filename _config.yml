@@ -6,3 +6,7 @@ collections:
   videos:
     output: true
     permalink: /videos/:name/
+
+# custom navi menu
+nav_links:
+  Home: "/v_test"
