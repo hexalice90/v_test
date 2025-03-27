@@ -1,6 +1,7 @@
 ---
 layout: default # post
 title: "Video 1"
+thumbnail: "/assets/thumbnails/video1.jpg"
 ---
 
 ## Video 1
