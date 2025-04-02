@@ -4,6 +4,8 @@ title: "Video 1"
 thumbnail: "/assets/thumbnails/video1.png"
 ---
 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e3470722e03046d8bcf9640cb5c44e81"}'></script><!-- End Cloudflare Web Analytics -->
+
 ## test video 1
 
 <video controls style="width: 100%; max-width: 1920px;">
@@ -16,4 +18,4 @@ thumbnail: "/assets/thumbnails/video1.png"
 <- Back to top page
 </a></p>
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e3470722e03046d8bcf9640cb5c44e81"}'></script><!-- End Cloudflare Web Analytics -->
+
