@@ -4,7 +4,7 @@ title: "Video 1"
 thumbnail: "/assets/thumbnails/video1.png"
 ---
 
-## Video 1
+## test video 1
 
 <video controls style="width: 100%; max-width: 1920px;">
   <source src="{{ site.baseurl }}/assets/videos/video1.mp4" type="video/mp4">
