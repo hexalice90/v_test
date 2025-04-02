@@ -1,12 +1,12 @@
 title: Gallery
 description: description is here
-theme: jekyll-theme-dinky # minima
+theme: jekyll-theme-dinky
 baseurl: "/v_test"
 show_downloads: false
+is_project_page: false
+is_user_page: false
 
-collections:
-  videos:
-    output: true
-    permalink: /videos/:name/
-
-
+#collections:
+#  videos:
+#    output: true
+#    permalink: /videos/:name/
