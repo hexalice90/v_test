@@ -20,3 +20,4 @@ title: "video List"
   {% endfor %}
 </div>
 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e3470722e03046d8bcf9640cb5c44e81"}'></script><!-- End Cloudflare Web Analytics -->
