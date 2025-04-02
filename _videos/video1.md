@@ -15,3 +15,5 @@ thumbnail: "/assets/thumbnails/video1.png"
 <a href="{{ site.baseurl }}" style="text-decoration: none; color: black;">
 <- Back to top page
 </a></p>
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e3470722e03046d8bcf9640cb5c44e81"}'></script><!-- End Cloudflare Web Analytics -->
